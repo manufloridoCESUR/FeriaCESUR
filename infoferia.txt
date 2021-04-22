@@ -1,0 +1,87 @@
+* commit bb91aa7bd6e5279e892c38418c981a8253206d31 (HEAD -> master, manufloridoCESUR/master)
+| Author: Manuel Florido <manuel.ma39601@cesurformacion.com>
+| Date:   Thu Apr 22 08:42:42 2021 +0200
+| 
+|     Cambios para el remoto
+| 
+* commit 727350e1985e230be81596f005cfd524e563684d
+| Author: Manuel Florido <manuel.ma39601@cesurformacion.com>
+| Date:   Thu Apr 22 08:34:07 2021 +0200
+| 
+|     Modificado comida
+| 
+* commit fa30a021e56f620627d4896851213c7b9552c0c4
+| Author: Manuel Florido <manuel.ma39601@cesurformacion.com>
+| Date:   Thu Apr 22 08:33:35 2021 +0200
+| 
+|     Añadido comida
+| 
+* commit c9eea419d21a55b48b6e5f4282ffc9871864c27c
+| Author: Manuel Florido <manuel.ma39601@cesurformacion.com>
+| Date:   Thu Apr 22 08:31:44 2021 +0200
+| 
+|     Añadidos los precios
+| 
+* commit 6513422084fa7c89c056d3a0205a5efa7f9d36fb
+| Author: Manuel Florido <manuel.ma39601@cesurformacion.com>
+| Date:   Thu Apr 22 08:30:53 2021 +0200
+| 
+|     Cambios a lista_socios
+| 
+* commit 6a37914630f5aaeb4d2032edf9b2631be247e6ce
+| Author: Manuel Florido <manuel.ma39601@cesurformacion.com>
+| Date:   Thu Apr 22 08:29:59 2021 +0200
+| 
+|     Añadida lista de socios
+| 
+* commit 289eaef25302fa11aa8d07f8be82a3bd36b3015e
+  Author: manufloridoCESUR <82811697+manufloridoCESUR@users.noreply.github.com>
+  Date:   Thu Apr 22 08:36:28 2021 +0200
+  
+      Initial commit
+  
+* commit 4557e3705a32a3608476e3b01869ab7223752be8 (cocina_caseta)
+| Author: Manuel Florido <manuel.ma39601@cesurformacion.com>
+| Date:   Thu Apr 22 08:34:07 2021 +0200
+| 
+|     Modificado comida
+| 
+* commit 1c06f393ad65fa6d1cefb43169c9f1c9732a361b
+| Author: Manuel Florido <manuel.ma39601@cesurformacion.com>
+| Date:   Thu Apr 22 08:33:35 2021 +0200
+| 
+|     Añadido comida
+| 
+* commit fd74f4ba1b3ea810d6d4c4b365ca9a9fa32d9fe7
+| Author: Manuel Florido <manuel.ma39601@cesurformacion.com>
+| Date:   Thu Apr 22 08:31:44 2021 +0200
+| 
+|     Añadidos los precios
+| 
+* commit e88106ea15e19275fdec00bc80ba64a244ea4025
+| Author: Manuel Florido <manuel.ma39601@cesurformacion.com>
+| Date:   Thu Apr 22 08:30:53 2021 +0200
+| 
+|     Cambios a lista_socios
+| 
+* commit 18ecac04bf9f0837672eea249a84092796c930e5
+  Author: Manuel Florido <manuel.ma39601@cesurformacion.com>
+  Date:   Thu Apr 22 08:29:59 2021 +0200
+  
+      Añadida lista de socios
+bb91aa7 HEAD@{0}: commit: Cambios para el remoto
+727350e HEAD@{1}: pull --rebase manufloridoCESUR master (finish): returning to refs/heads/master
+727350e HEAD@{2}: pull --rebase manufloridoCESUR master (pick): Modificado comida
+fa30a02 HEAD@{3}: pull --rebase manufloridoCESUR master (pick): Añadido comida
+c9eea41 HEAD@{4}: pull --rebase manufloridoCESUR master (pick): Añadidos los precios
+6513422 HEAD@{5}: pull --rebase manufloridoCESUR master (pick): Cambios a lista_socios
+6a37914 HEAD@{6}: pull --rebase manufloridoCESUR master (pick): Añadida lista de socios
+289eaef HEAD@{7}: pull --rebase manufloridoCESUR master (start): checkout 289eaef25302fa11aa8d07f8be82a3bd36b3015e
+4557e37 HEAD@{8}: merge cocina_caseta: Fast-forward
+fd74f4b HEAD@{9}: checkout: moving from cocina_caseta to master
+4557e37 HEAD@{10}: commit: Modificado comida
+1c06f39 HEAD@{11}: commit: Añadido comida
+fd74f4b HEAD@{12}: checkout: moving from master to cocina_caseta
+fd74f4b HEAD@{13}: commit: Añadidos los precios
+e88106e HEAD@{14}: commit: Cambios a lista_socios
+18ecac0 HEAD@{15}: commit (initial): Añadida lista de socios
