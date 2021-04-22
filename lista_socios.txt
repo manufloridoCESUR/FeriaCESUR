@@ -1,2 +1,3 @@
 hola esto es la lista de socios
 Segundo commit
+Cambios para el remoto
